@@ -31,9 +31,9 @@ Este proyecto tiene como objetivo desplegar aplicaciones en AWS utilizando Terra
 1. Ve a tu repositorio en GitHub.
 2. Navega a Settings > Secrets and variables > Actions.
 3. Agrega los siguientes valores:
-  **AWS_ACCESS_KEY_ID**
-  **AWS_SECRET_ACCESS_KEY**
-  **ECR_REGISTRY**
+- **AWS_ACCESS_KEY_ID**
+- **AWS_SECRET_ACCESS_KEY**
+- **ECR_REGISTRY**
 
 ## Paso 3: Despliegue con GitHub Actions
 
